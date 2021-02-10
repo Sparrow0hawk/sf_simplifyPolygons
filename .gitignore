@@ -1,0 +1,7 @@
+# gitignore for sf_SimplifyPolygons
+
+.Rhistory
+.Rproj.user
+.Rprofile
+
+
